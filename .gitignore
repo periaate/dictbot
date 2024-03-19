@@ -1,0 +1,5 @@
+*.json
+.vscode
+.env*
+dictbot*
+*.exe
